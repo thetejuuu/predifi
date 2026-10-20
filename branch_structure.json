@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-25-contracts-define-no-contest-and-refund",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-25-contracts-define-no-contest-and-refund": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-25-contracts-define-no-contest-and-refund",
+    "origin"
+  ]
+}
